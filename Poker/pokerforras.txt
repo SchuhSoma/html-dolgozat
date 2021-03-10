@@ -1,0 +1,34 @@
+PÓKER
+
+A póker története: 
+
+A póker történelme nem kevés vita tárgya még ma is. A játék neve valószínűleg a francia poque-ból ered, aminek az eredete a német pochenből eredeztethető. Ez mégsem teljesen bizonyos, mert a pókert gyakran játszották más néven. Az egyik ilyen játék a Perzsiában még ma is játszott as nas, amely a New Orleans-i francia tengerészekkel indulhatott el Európába, hogy más játékokkal keveredve kialakuljon belőle a ma is játszott póker. <br><br>A póker kialakulása után valószínűleg az angol bragg-gal és a francia reneszánsz primero játékaival keveredhetett még mire kialakult a mai formája és alapszabályai. De a keveredés mai formáját mutatja még ma is, hogy gyakori az újabb pókerváltozatok megjelenése. Joseph Crowell angol színész írta le először, hogy játszotta a játékot 20 kártyás paklival 1829-ben New Orleansban.<br><br> Itt még 4 kártya volt a legértékesebb kéz, ami vihette a kasszát. A póker első könyvben való említése:  Jonathan H Green könyve, An Exposure of the Arts and Miseries of Gambling (G B Zieber, Philadelphia, 1843). Ebben leírta a játék terjesztését Mississippitől az egész Nyugati parton a hajós legények segítségével. A póker terjesztése az aranyláz idején is folyt, ami közben egy új erkölcsi világkép alakult ki, ami egy kicsit lassította a terjedést.<br><br>Hamarosan ezután terjedt el a teljes 52 lapos francia kártya, amelyet először az angolok használtak. Ebben már megjelent a Flush (Flös). Az Amerikai polgárháború alatt fejlődött ki az alap változatból a húzós póker és a stud póker egy-egy változata. Az amerikai változások eredményeképp több, ma már alig ismert változata is kialakult a pókernek, de ekkor fejlődött ki, a ma oly nagy népszerűségnek örvendő közösségi póker (1925-ben) alap változata is. A játék idővel Amerikából eljutott Ázsiába és Európába is, ez főleg az amerikai katonák segítségével történhetett meg.<br><br>A póker számos filmben is megjelent, ahol szerencsejáték van középpontban, pl. Maverick, Casino, Pókerarcok, ...és megint dühbe jövünk, de zenei produkció is foglalkozik vele, mint például Lady Gaga Poker Face című száma.
+
+A póker, mint stratégiai játék: 
+Többen úgy vélik, hogy a póker csupán szerencsejáték, nem kell hozzá különösebb tudás és bárki, felkészülés nélkül le tudna győzni akárki mást, csak a jó lapok számítanak. A valóság azonban ettől nagyon is eltérő, a játék során ki lehet számolni a kezünkben lévő lapok esélyét, meg lehet figyelni az ellenfelek viselkedését (nem csak élő játékban, online is) és az asztalon lévő lapokat és az ellenfél játékát összevetve, meg lehet becsülni kezünk erősségét.<br><br>
+Erre itt egy jó példa:  10 ember ül az asztalnál, mindenkinél 10.000 zseton van. Húsz óra játék után az egyik embernek 50.000 zsetonja van, és van olyan is, aki már többször is újravásárolta magát (elfogyott a 10.000 zsetonja és vásárolt még 10.000-et, hogy tovább tudjon játszani). Ebből arra lehet következtetni, hogy akinek 50.000 zsetonja van, jobb játékos, mint akinek már többször elfogyott a pénze.<br><br> Ilyenkor már nem csak azért van több az egyiknek, mert nagyobb a szerencséje. A nagy számok törvénye alapján a tíz embernek húsz óra alatt megközelítőleg ugyanannyiszor volt a legjobb keze az asztalnál (tegyük fel, hogy húsz óra alatt 1200 menetet játszottak, akkor elvileg mindenkinek körülbelül120-szor kellett volna győzni).<br><br> De valamiért az egyik többször győzött, mint a másik. Ezt nem lehet arra fogni, hogy "a szerencse ma az ő oldalán van", mert minél többet játszik valaki, a "szerencsés sorozatok" és a "pechsorozatok" száma kiegyenlítődik.
+
+A pókerkezek
+Royal flös: A legerősebb lapkombináció. Egyszínű 10-es, bubi, dáma, király, ász lapokból áll. Ha két ilyen találkozik, akkor döntetlen (osztozás a nyereményen) van. Példa:  kőr 10-es, kőr bubi, kőr dáma, kőr király, kőr ász.
+Színsor: Öt egyszínű sorba rendezhető lapból áll. Ha két ilyen találkozik, a legmagasabb lap dönt. Ha egyforma, akkor döntetlen (osztozás a nyereményen) van. Példa:  treff 5-ös, treff 6-os, treff 7-es, treff 8-as, treff 9-es.
+Póker : Négy ugyanolyan számozású vagy jelű lapból és egy akármilyen másik lapból áll. Ha két ilyen találkozik, a magasabb póker nyer. Példa:  kőr 7-es, pikk 7-es, treff 7-es, káró 7-es, pikk 10-es.
+Full: Három ugyanolyan számozású vagy jelű lapból és két másik ugyanolyan számozású vagy jelű lapból áll. Ha két ilyen találkozik, a magasabb drill nyer. Ha egyforma, a magasabb pár nyer. Példa:  káró bubi, treff bubi, pikk bubi, kőr 8-as, pikk 8-as.
+Szín: Öt ugyanolyan színű lapból áll. Ha két ilyen találkozik, a legmagasabb lap dönt. Ha egyforma, a második legmagasabb dönt, és így tovább… Példa:  pikk 2-es, pikk 6-os, pikk 9-es, pikk dáma, pikk ász.
+Sor: Öt sorba rendezhető lapból áll. Ha két ilyen találkozik, a legmagasabb lap dönt. Ha egyforma, a színerősség dönt. Példa:  kőr 8-as, káró 9-es, pikk 10-es, pikk bubi, treff dáma.
+Drill : Három ugyanolyan számozású vagy jelű lapból és két akármilyen másik lapból áll. Ha két ilyen találkozik, a magasabb drill nyer. Ha egyforma, a magasabb semleges lap, majd az alacsonyabb dönt. Példa:  kőr 8-as, treff 8-as, pikk 8-as, pikk 5-ös, káró bubi.
+Két pár: Kétszer két ugyanolyan számozású vagy jelű lapból áll. Ha két ilyen találkozik, a magasabb pár, majd az alacsonyabb, majd a semleges lap erőssége dönt. Példa:  pikk 5-ös, káró 5-ös, pikk dáma, treff dáma, káró 2-es.
+Egy pár: Két ugyanolyan számozású vagy jelű lapból és három akármilyen másik lapból áll. Ha két ilyen találkozik, a magasabb pár nyer. Ha egyforma, a semleges lapok döntenek. Példa:  kőr 7-es, pikk 7-es, treff 8-as, káró bubi, pikk 10-es.
+Magas lap: Bármilyen lap, abból is a legmagasabb értékkel rendelkező. Példa:  pikk ász, káró 9-es, kör 4-es, treff bubi, pikk dáma.
+
+Póker a filmekben: 
+A nemrég a mozikba kerülő Elit játszma kapcsán megnéztük, melyek a legjobb szerencsejátékkal foglalkozó hollywoodi alkotások. Van közte vígjáték, akciófilm és igazi dráma is.
+
+Casino Royale (2006)
+
+Daniel Craig első filmje James Bond szerepében. A 007-es ügynök egy montenegrói kaszinóban készül legyőzni a terroristák bankárát, aki később meg akarja ölni őt és a felvigyázóját, akit Eva Green alakít. Később természetesen James Bond filmről lévén szó az ügynök és a lány egymásba szeret és együtt próbálnak meg kikerülni a satuból.
+ 
+Főszereplők:  Daniel Craig, Eva Green, Mads Mikkelsen
+
+…és megint dühbe jövünk (1978)
+
+Az egyik legnagyobb klasszikus Bud Spencer és Terence Hill örökségéből, melyből mindenki tudna legalább egyet idézni. „Zsugabubus”, vagyis Johnny Firpo és a régi nagy pókerjátékos Charlie Firpo összefognak, hogy hatalmas pofonok közepette elkapják a „Parapoulis, a Görög” nevű hamiskártyást. „Ja, csak ne spórold ki a pisztáciát…”
